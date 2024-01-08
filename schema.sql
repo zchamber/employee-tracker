@@ -1,4 +1,4 @@
--- Switch to the employee_tracker_1 database
+-- Switch to the employee_db database
 USE employee_db;
 
 -- Create the department table
